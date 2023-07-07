@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UEproject/MultipleShootingGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/UEproject/MultipleShootingGame/Content/Maps/Map_01.umap",
+				"D:/UEproject/MultipleShootingGame/Content/Characters/BP_Hero_Quin.uasset",
+				"D:/UEproject/MultipleShootingGame/Content/Characters/BS_Movement_Quin.uasset",
+				"D:/UEproject/MultipleShootingGame/Content/Characters/ABP_Hero_Quin.uasset",
+				"D:/UEproject/MultipleShootingGame/Content/Framework/BP_Shooter_GameMode.uasset"
+			]
+		}
+	]
+}
