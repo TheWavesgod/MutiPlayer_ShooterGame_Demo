@@ -10,7 +10,17 @@
 				"D:/UEproject/MultipleShootingGame/Content/Characters/BP_Hero_Quin.uasset",
 				"D:/UEproject/MultipleShootingGame/Content/Characters/BS_Movement_Quin.uasset",
 				"D:/UEproject/MultipleShootingGame/Content/Characters/ABP_Hero_Quin.uasset",
-				"D:/UEproject/MultipleShootingGame/Content/Framework/BP_Shooter_GameMode.uasset"
+				"D:/UEproject/MultipleShootingGame/Content/Framework/BP_Shooter_GameMode.uasset",
+				"D:/UEproject/MultipleShootingGame/Content/Shooter_VFXPack/Particles/MuzzleFlashes/P_MuzzleFlash_02.uasset",
+				"D:/UEproject/MultipleShootingGame/Content/Framework/BP_Shooter_GameInstance.uasset",
+				"D:/UEproject/MultipleShootingGame/Content/Framework/BP_ShooterMenu_GameMode.uasset",
+				"D:/UEproject/MultipleShootingGame/Content/Framework/BP_ShooterMenuPawn.uasset",
+				"D:/UEproject/MultipleShootingGame/Content/Framework/BP_ShooterMenu_PController.uasset",
+				"D:/UEproject/MultipleShootingGame/Content/Maps/Menu/MainMenu_Map.umap",
+				"D:/UEproject/MultipleShootingGame/Content/Maps/Menu/Lobby_Map.umap",
+				"D:/UEproject/MultipleShootingGame/Content/Maps/Menu/LobbyMenu_Map.umap",
+				"D:/UEproject/MultipleShootingGame/Content/Widgets/WB_MainMenu.uasset",
+				"D:/UEproject/MultipleShootingGame/Content/Framework/BP_Shooter_PController.uasset"
 			]
 		}
 	]
