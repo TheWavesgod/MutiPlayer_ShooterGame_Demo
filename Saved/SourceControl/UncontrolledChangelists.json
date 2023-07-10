@@ -14,13 +14,28 @@
 				"D:/UEproject/MultipleShootingGame/Content/Shooter_VFXPack/Particles/MuzzleFlashes/P_MuzzleFlash_02.uasset",
 				"D:/UEproject/MultipleShootingGame/Content/Framework/BP_Shooter_GameInstance.uasset",
 				"D:/UEproject/MultipleShootingGame/Content/Framework/BP_ShooterMenu_GameMode.uasset",
-				"D:/UEproject/MultipleShootingGame/Content/Framework/BP_ShooterMenuPawn.uasset",
-				"D:/UEproject/MultipleShootingGame/Content/Framework/BP_ShooterMenu_PController.uasset",
 				"D:/UEproject/MultipleShootingGame/Content/Maps/Menu/MainMenu_Map.umap",
-				"D:/UEproject/MultipleShootingGame/Content/Maps/Menu/Lobby_Map.umap",
 				"D:/UEproject/MultipleShootingGame/Content/Maps/Menu/LobbyMenu_Map.umap",
 				"D:/UEproject/MultipleShootingGame/Content/Widgets/WB_MainMenu.uasset",
-				"D:/UEproject/MultipleShootingGame/Content/Framework/BP_Shooter_PController.uasset"
+				"D:/UEproject/MultipleShootingGame/Content/Framework/BP_Shooter_PController.uasset",
+				"D:/UEproject/MultipleShootingGame/Content/SavedData/S_PlayerProfile.uasset",
+				"D:/UEproject/MultipleShootingGame/Content/SavedData/SG_PlayerProfile.uasset",
+				"D:/UEproject/MultipleShootingGame/Content/Framework/BP_Menu_GameMode.uasset",
+				"D:/UEproject/MultipleShootingGame/Content/Framework/BP_MenuController.uasset",
+				"D:/UEproject/MultipleShootingGame/Content/Framework/BP_MenuPawn.uasset",
+				"D:/UEproject/MultipleShootingGame/Content/Widgets/WB_MpMenu.uasset",
+				"D:/UEproject/MultipleShootingGame/Content/Widgets/WB_SeverRow.uasset",
+				"D:/UEproject/MultipleShootingGame/Content/Widgets/WB_LobbyMenu.uasset",
+				"D:/UEproject/MultipleShootingGame/Content/Maps/Menu/Travel_Map.umap",
+				"D:/UEproject/MultipleShootingGame/Content/Widgets/WB_LoadScreen.uasset",
+				"D:/UEproject/MultipleShootingGame/Content/Widgets/Texture/_3201deea-5fe4-497f-9dcb-3d7350e62257.uasset",
+				"D:/UEproject/MultipleShootingGame/Content/Widgets/Texture/_53e183bd-9149-4407-9efa-fd4ae94db7fb.uasset",
+				"D:/UEproject/MultipleShootingGame/Content/Maps/Menu/Map_02.umap",
+				"D:/UEproject/MultipleShootingGame/Content/Maps/Map_02.umap",
+				"D:/UEproject/MultipleShootingGame/Content/Framework/BP_ShooterMenuPawn.uasset",
+				"D:/UEproject/MultipleShootingGame/Content/Framework/BP_ShooterMenu_PController.uasset",
+				"D:/UEproject/MultipleShootingGame/Content/SavedData/BP_.uasset",
+				"D:/UEproject/MultipleShootingGame/Content/Maps/Menu/Lobby_Map.umap"
 			]
 		}
 	]
